@@ -47,13 +47,11 @@ The module is now added to your current layout.
 
 ## FAQs
 
-### ModuOps Xchange and Drive Storage Capacity
-
-**Q: Does the ModuOps Xchange count against my Drive storage capacity?**
+### Q: Does the ModuOps Xchange count against my Drive storage capacity?
 
 A: No, the ModuOps Xchange does not utilize any of your Google Drive storage space.
 
-**Q: Can I save changes to a module in the ModuOps Xchange?**
+### Q: Can I save changes to a module in the ModuOps Xchange?
 
 A: No, direct saving to the ModuOps Xchange is not supported as it is a read-only resource.
 
@@ -62,7 +60,7 @@ You can, however, save changes to the module in a different location on your loc
 1. Email the modified file to Bob Hall.
 2. If you're familiar with GitHub, create a pull request to update the module in the ModuOps Xchange.
 
-**Q: How can I add modules to the ModuOps Xchange?**
+### Q: How can I add modules to the ModuOps Xchange?
 
 A: Follow these steps to add a module to the ModuOps Xchange:
 
@@ -77,7 +75,7 @@ Once you have saved all the modules you wish to add to the ModuOps Xchange, you 
 1. Email the saved file(s) to Bob Hall.
 2. If you are familiar with GitHub, create a pull request in the ModuOps Xchange repository.
 
-**Q: I am familiar with GitHub. Can I clone the repository to my local file system?**
+### Q: I am familiar with GitHub. Can I clone the repository to my local file system?\*\*
 
 A: Absolutely! If you are proficient with GitHub, you can skip using Google Drive. Just clone the repository to your local file system. Then, within ModuOps, you can easily add modules from the ModuOps Xchange.
 
