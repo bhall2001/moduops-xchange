@@ -41,6 +41,6 @@ Once you've added the Module Xchange to your local file system, you can access i
 5. Select the module and click `Open`.
 
 > [!NOTE]
-> You can select multiple modules using your operating system's standard key combinations to add them at once.
+> You can select multiple modules using your operating system's standard key combinations to add multiple modules simultaneously.
 
 The module is now added to your current layout.
