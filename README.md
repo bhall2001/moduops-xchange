@@ -53,7 +53,7 @@ A: No, the ModuOps Xchange does not utilize any of your Google Drive storage spa
 
 ### Q: Can I save changes to a module in the ModuOps Xchange?
 
-A: No, direct saving to the ModuOps Xchange is not supported as it is a read-only resource.
+A: No, direct saving to the ModuOps Xchange with Google Drive is not supported, it is a read-only resource.
 
 You can, however, save changes to the module in a different location on your local file system. Then you have two options:
 
@@ -79,4 +79,4 @@ Once you have saved all the modules you wish to add to the ModuOps Xchange, you 
 
 A: Absolutely! If you are proficient with GitHub, you can skip using Google Drive. Just clone the repository to your local file system. Then, within ModuOps, you can easily add modules from the ModuOps Xchange.
 
-This also has the advantage that you can save changes to your local cloned repository and create pull requests for changes.
+This also has the advantage that you can save changes to your local cloned repository and create pull requests for module changes.
