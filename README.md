@@ -1,6 +1,6 @@
 # ModuOps Xchange
 
-Welcome to the ModuOps Xchange, a shared drive of modules from around the world.
+Welcome to the ModuOps Xchange, a shared repository of modules from around the world.
 
 ## How it works
 
