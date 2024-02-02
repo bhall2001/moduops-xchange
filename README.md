@@ -75,7 +75,7 @@ Once you have saved all the modules you wish to add to the ModuOps Xchange, you 
 1. Email the saved file(s) to Bob Hall.
 2. If you are familiar with GitHub, create a pull request in the ModuOps Xchange repository.
 
-### Q: I am familiar with GitHub. Can I clone the repository to my local file system?\*\*
+### Q: I am familiar with GitHub. Can I clone the repository to my local file system?
 
 A: Absolutely! If you are proficient with GitHub, you can skip using Google Drive. Just clone the repository to your local file system. Then, within ModuOps, you can easily add modules from the ModuOps Xchange.
 
