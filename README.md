@@ -41,7 +41,7 @@ Once you've added the ModuOps Xchange to your local file system, you can access 
 5. Select the module and click `Open`.
 
 > [!NOTE]
-> You can select multiple modules using your operating system's standard key combinations to add multiple modules simultaneously.
+> You can select multiple modules using your operating system's standard key combinations to add multiple files simultaneously.
 
 The module is now added to your current layout.
 
@@ -80,3 +80,5 @@ Once you have saved all the modules you wish to add to the ModuOps Xchange, you 
 A: Absolutely! If you are proficient with GitHub, you can skip using Google Drive. Just clone the repository to your local file system. Then, within ModuOps, you can easily add modules from the ModuOps Xchange.
 
 This also has the advantage that you can save changes to your local cloned repository and create pull requests for module changes.
+
+[ModuOps Xchange Github repository](https://github.com/bhall2001/moduops-xchange)
