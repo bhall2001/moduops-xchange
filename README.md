@@ -1,4 +1,4 @@
-# Module Exchange
+# ModuOps Module Xchange
 
 Welcome to the ModuOps Module Xchange, a shared drive of modules from around the world.
 
