@@ -30,8 +30,8 @@ Adding the ModuOps Xchange to your local file system is straightforward:
 ![add shortcut menu](/assets/add-shortcut.png)
 
 4. Finally, select `Add shortcut` from the open submenu.
-5. A modal dialog will open. Click `All locations` to see the root of your drive.
-6. Navigate to the location where you want to access the ModuOps Xchange and click `Add`.
+5. A modal dialog will open. Click `All locations` to see the root of your Google Drive.
+6. Navigate to the location where you want to access the ModuOps Xchange on your Drive and click `Add`.
 
 ## ModuOps Xchange in ModuOps
 
