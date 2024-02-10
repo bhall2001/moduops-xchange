@@ -2,6 +2,9 @@
 
 Welcome to the ModuOps Xchange, a shared repository of modules from around the world.
 
+> [!TIP]
+> Right click links to open them in a new browser tab
+
 ## How it works
 
 Modules are added to the Xchange by sending the module file to Bob Hall via email or by submitting a pull request to the [ModuOps Xchange Github repository](https://github.com/bhall2001/moduops-xchange).
